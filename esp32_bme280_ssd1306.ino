@@ -1,9 +1,3 @@
-//D12     SCK
-//D11     SDA
-//D10     RES
-//D9      DC
-//D8      CS
-
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
